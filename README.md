@@ -1,6 +1,10 @@
 # Retail-People-Count
 
 This project includes all the necessary files required for Performing crowd counting . You can run the project locally yourself or acess the streamlit dashboard hosted at streamlit.cloud
+
+# Demo Example 
+![People Tracking with Dashboard](https://github.com/Yega-Noragami/Retail-People-Count/blob/main/index.jpg)
+
 # How to use it
 Make sure you can conda or other virtual environment installed
 ### Setup
