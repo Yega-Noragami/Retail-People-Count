@@ -1,0 +1,10 @@
+schedule
+argparse
+imutils
+dlib
+opencv-python
+cmake
+streamlit
+altair
+scipy
+Bumpy
